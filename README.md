@@ -45,7 +45,10 @@ Top 5 and bottom performing schools based on overall passing rate.
 ## Summary
 
 After having the data re-analyzed I realized four major differences in the analysis.
-1. uno
-2. dos
-3. tres
-4. cuarto
+
+1. The total amount of students in all the schools changed from 39,170 to 38,709.
+2. Thomas High School passing overall percentage changed from 90.9% to 90.6%
+3. Thomas High School passing percentage in math changed from 93.3% to 93.2%
+4. Thomas High School passing percentage in reading changed from 97.3% to 97.02%
+
+Since the solution to having evidence of academic dishonesty was to remove all 9th graders from Thomas High School, the real effects will show in the schools internal performance overall.
