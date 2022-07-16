@@ -40,7 +40,7 @@ Top 5 and bottom performing schools based on overall passing rate.
   - Top five: Cabrera, Thomas, Griffin, Wilson, and Pena High School.
   - Bottom five: Rodriguez, Figueroa, Huang, Hernandez, and Johnson High School.
 
-![School_District_DataFrame](path/to/School_Data_dataframe.png)
+![School_District_DataFrame](https://github.com/wendienyd/School_District_Analysis/blob/main/School_Data_dataframe.png)
 
 ## Summary
 
